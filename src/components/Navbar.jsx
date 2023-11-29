@@ -25,7 +25,7 @@ const Navbar = () => {
 
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
             MEGA &nbsp;
-            <span className="sm:block hidden">| DEVELOPER</span>
+            <span className="sm:block hidden">|Frontend DEVELOPER</span>
           </p>
         </Link>
 
