@@ -44,15 +44,15 @@ const services = [{
         icon: web,
     },
     {
-        title: "React JS Developer",
+        title: "React JS",
         icon: mobile,
     },
     {
-        title: "Backend Developer",
+        title: "Studing Backend Developing",
         icon: backend,
     },
     {
-        title: "Content Creator",
+        title: "Word Press",
         icon: creator,
     },
 ];
